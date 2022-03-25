@@ -62,21 +62,21 @@ Marketing that brings you sale without wasting time or money.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
+alt = Daniel Lewis
+Daniel Lewis
 Temidayo was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. I can recommend him to anyone.
 
-alt = Jessica miller
-Jessica miller
+alt = Jessica Miller
+Jessica Miller
 Temidayo was hired to write SEO content for our website. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of our company. We will always use his service.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Emily Evans
+Emily Evans
+Temidayo was hired to build out company's website. We were very pleased with the work done. He built a responsive modern website that has helped our company grow online and increased our conversion rate.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Henry William
+Henry William
+Temidayo was hired to run our major marketing campaign. We were very pleased with the results we got. His expertise brought us more qulified leads and more conversions. We will always give him our marketing work to handle.
 
 
 ## clients
@@ -93,42 +93,42 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+University of Ilorin
+2016 — 2020
+Graduated with a Bachelor's Degree in Sociology.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Max Business School
+2020 — 2021
+Graduated with a Master's Degree in Marketing.
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Google
+2020 — 2021
+Graduated with a Certificate in the Digital Marketing.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Creative director, Foenix Hub
+2017 — Present
+Directs the design, development, and digital marketing activities.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Web Developer, Mesileum
+2021 — Present
+Designs, develops, and manages web application and activities.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Content Marketer, Digital Zone
+2022 — Present
+Writes and edits engaging SEO-focused content to generate leads.
 
 My skills
 
 Web design
-80%
+99%
 Graphic design
-70%
-Branding
+95%
+Writing
+99%
+Marketing
 90%
-WordPress
-50%
 
 
 
