@@ -1,8 +1,8 @@
 # vCard - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/temidayoxyz/vcard)
+![GitHub stars](https://img.shields.io/github/stars/temidayoxyz/vcard?style=social)
+![GitHub forks](https://img.shields.io/github/forks/temidayoxyz/vcard?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/temidayoxyz?style=social)](https://twitter.com/intent/follow?screen_name=temidayoxyz)
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
