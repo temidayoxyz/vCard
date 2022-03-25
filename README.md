@@ -12,11 +12,13 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 ![vCard Desktop Demo](./website-demo-image/responsive.png "Responsive Demo")
 ![vCard Mobile Demo](./website-demo-image/desktop.png "Desktop Demo")
 
-## Prerequisites
+## Requirements
 
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* Knowledge of HTML, CSS, and JavaScript
+* A brain to think 🤓🤓
 
 ## Installing vCard
 
