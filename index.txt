@@ -69,19 +69,19 @@ Testimonials
 
 alt = Daniel Lewis
 Daniel Lewis
-Temidayo was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. I can recommend him to anyone.
+I was introduced to Temidayo just as I was about to embark on a major business project, and he came through for me with flying colours. His writing is fresh, creative and engaging, and it's the best quality I've seen in my many years as a writer. The guy is a beast, he just writes and writes, good stuff!
 
-alt = Jessica Miller
-Jessica Miller
-Temidayo was hired to write SEO content for our website. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of our company. We will always use his service.
+alt = Rebecca Jaxon
+Rebecca Jaxon
+I have been working with Temidayo for over a year now and I am very happy with his content writing services. He is very responsive, patient, reliable and delivers high quality content on time. I would highly recommend him to anyone looking for fast results and professional copywriting or content writing services.
 
-alt = Emily Evans
-Emily Evans
-Temidayo was hired to build out company's website. We were very pleased with the work done. He built a responsive modern website that has helped our company grow online and increased our conversion rate.
+alt = Dorothy Adedotun
+Dorothy Adedotun
+There is no one else I will trust with my design and development work. Temidayo is a true professional, and the quality of his work is unmatched. He takes the time to understand your needs, and then goes above and beyond to exceed even your highest expectations. If you have any kind of design or web development need, I urge you to talk to him first!
 
-alt = Henry William
-Henry William
-Temidayo was hired to run our major marketing campaign. We were very pleased with the results we got. His expertise brought us more qulified leads and more conversions. We will always give him our marketing work to handle.
+alt = Mesioye Johnson
+Mesioye Johnson
+Temidayo is a magician, and I'm not talking about his tricks. He is the most helpful digital strategists I have ever met. The way he approaches his work and the way he helps you achieve your goals, is truly refreshing. He's not afraid to go the extra mile to help you get to where you want to be. He's the real deal.
 
 
 ## clients
@@ -98,17 +98,17 @@ Resume
 
 Education
 
-University of Ilorin
-2016 — 2020
-Graduated with a Bachelor's Degree in Sociology.
-
 Max Business School
 2020 — 2021
-Graduated with a Master's Degree in Marketing.
+MSc Marketing and Brand Management.
 
-Google
-2020 — 2021
-Graduated with a Certificate in the Digital Marketing.
+University of Ilorin
+2016 — 2020
+BSc Sociology.
+
+Google, Udemy, & Hubspot
+2018 — 2020
+Marketing certificates.
 
 Experience
 
@@ -116,13 +116,13 @@ Creative director, Foenix Hub
 2017 — Present
 Directs the design, development, and digital marketing activities.
 
-Web Developer, Mesileum
-2021 — Present
-Designs, develops, and manages web application and activities.
+Website Developer, Mesileum
+2021 — 2022
+Designed, developed, and managed company's web application and activities.
 
-Content Marketer, Digital Zone
-2022 — Present
-Writes and edits engaging SEO-focused content to generate leads.
+Content Marketer, Ezdia Inc
+2020 — 2021
+Developed eCommerce content to increase traffic and brand awareness online.
 
 My skills
 
