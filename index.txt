@@ -197,40 +197,52 @@ Development
 Blog
 
 alt = article
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+Cybersecurity
+June 14, 2021
+Log4Shell: Could This Be The Mother of All Vulnerabilities?
+Click to read.
 
 alt = article
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+Automotive
+June 14, 2021
+8 Things Porsche Owners Keep Quiet About
+Click to read.
 
 alt = article
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+Design & Development
+June 14, 2021
+WEBSITE DESIGN: Things You Didn’t Know You Didn’t Know
+Click to read.
 
 alt = article
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+Cryptocurrency & NFT
+June 14, 2021
+5 Reasons NFT Is A Waste Of Time
+Click to read.
 
 alt = article
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Digital Marketing
+June 14, 2021
+Leveraging TikTok for Your Brand Visibility in 2022
+Click to read.
 
 alt = article
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+Automotive
+June 14, 2021
+10 Supercars That Aren't As Cool As Everyone Thinks
+Click to read.
+
+alt = article
+Productivity
+June 14, 2021
+Tired of Grammarly? Here are 5 Free Grammarly Alternatives Worth Trying
+Click to read.
+
+alt = article
+Digital Marketing
+June 14, 2021
+Adaptive Marketing: Leveraging Shifting Trends
+Click to read.
 
 
 
