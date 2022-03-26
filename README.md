@@ -9,8 +9,10 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/responsive.png "Responsive Demo")
-![vCard Mobile Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Responsive Demo](./website-demo-image/all-devices.png "Responsive Demo")
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.jpg "Mobile Demo")
+![vCard Tablet Demo](./website-demo-image/tablet.jpg "Tablet Demo")
 
 ## Inspiration
 
