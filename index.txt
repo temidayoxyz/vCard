@@ -4,7 +4,7 @@ Temidayo
 
 alt = Temidayo Jacob
 Temidayo Jacob
-Content and Digital Specialist
+Content and Web Developer
 
 Show Contacts
 
@@ -12,13 +12,13 @@ Email
 contact@temidayo.xyz
 
 Phone
-+2349031561204
++234903156XXXX
 
 Birthday
-May 30, 1990
+May 30
 
 Location
-Ilorin, Nigeria
+Nigeria
 
 # navbar
 
@@ -32,9 +32,13 @@ Contact
 
 About me
 
-I write and design visuals for businesses, agencies, organizations, and individuals. I also help entrepreneurs to with their websites and design visuals for their businesses.
+I help businesses, agencies, organizations, and individuals like you to create a positive image and powerful content. Also, with my years of experience in website design and development, I help them build responsive websites for their businesses.
 
-My job is to write or design content that blows the mind of your audience, and build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I have designed and developed websites for many famous brand companies.
+My job is to write and design engaging content that blows the mind of your audience. It is also my responsibility to build your website so that it is functional and user-friendly but at the same time attractive to your target audience.
+
+I add personal touch to your product or service and make sure that is eye-catching to your customers. My aim is to bring across your message and identity in the most creative way, as well as grow your reach and let your voice be heard.
+
+Contact me if you want a quote to get my premium content and web development services.
 
 
 ## service
