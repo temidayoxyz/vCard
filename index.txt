@@ -100,7 +100,7 @@ Education
 
 Max Business School
 2020 — 2021
-MSc Marketing and Brand Management.
+MSc Marketing & Brand Management.
 
 University of Ilorin
 2016 — 2020
@@ -126,13 +126,13 @@ Developed eCommerce content to increase traffic and brand awareness online.
 
 My skills
 
-Web design
-99%
-Graphic design
-95%
+Problem-solving
+98%
 Writing
-99%
-Marketing
+95%
+Development
+85%
+Design
 90%
 
 
@@ -142,51 +142,53 @@ Marketing
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Brand design
+Web Design
+Mobile App Design
+Development
 
 Select category
 All
-Web design
-Applications
-Web development
+Brand design
+Web Design
+Mobile App Design
+Development
 
 alt = finance
 Finance
-Web development
+Development
 
 alt = orizon
 Orizon
-Web development
+Development
 
 alt = fundo
 Fundo
-Web design
+Web Design
 
 alt = brawlhalla
 Brawlhalla
-Applications
+Mobile App Design
 
 alt = dsm.
 DSM.
-Web design
+Brand Design
 
 alt = metaspark
 MetaSpark
-Web design
+Web Design
 
 alt = summary
 Summary
-Web development
+Brand Design
 
 alt = task manager
 Task Manager
-Applications
+Mobile App Design
 
 alt = arrival
 Arrival
-Web development
+Development
 
 
 
