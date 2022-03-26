@@ -154,40 +154,84 @@ Web Design
 Mobile App Design
 Development
 
-alt = finance
-Finance
-Development
+alt = bamboo
+Bamboo
+Brand design
 
-alt = orizon
-Orizon
-Development
+alt = boomify
+Boomify
+Brand design
 
-alt = fundo
-Fundo
-Web Design
+alt = coffeebury
+Coffeebury
+Brand design
 
-alt = brawlhalla
-Brawlhalla
+alt = lagos
+Lagos
+Brand design
+
+alt = yum crunchie
+Yum Crunchie
+Brand design
+
+alt = furniture app
+Furniture App
 Mobile App Design
 
-alt = dsm.
-DSM.
-Brand Design
-
-alt = metaspark
-MetaSpark
-Web Design
-
-alt = summary
-Summary
-Brand Design
-
-alt = task manager
-Task Manager
+alt = ecommerce app
+ECommerce App
 Mobile App Design
 
-alt = arrival
-Arrival
+alt = signup
+Forum Signup App
+Mobile App Design
+
+alt = music app
+Music App
+Mobile App Design
+
+alt = minimalist app
+Minimalist App
+Mobile App Design
+
+alt = expolitusng
+Expolitus Ng
+Web Design
+
+alt = temidayo
+Temidayo
+Web Design
+
+alt = mesileum
+Mesileum
+Web Design
+
+alt = talkingpen
+Talkingpen Enterprise
+Web Design
+
+alt = lmm
+Learn Money Making
+Web Design
+
+alt = emminex media
+Emminex Media
+Development
+
+alt = unserious collective
+Unserious Collective
+Development
+
+alt = ksa
+KSA Website
+Development
+
+alt = foenix scholar
+Foenix Scholar
+Development
+
+alt = foenix hub
+Foenix Hub
 Development
 
 
