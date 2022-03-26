@@ -196,37 +196,37 @@ Development
 
 Blog
 
-alt = Design conferences in 2022
+alt = article
 Design
 Fab 23, 2022
 Design conferences in 2022
 Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
 
-alt = Best fonts every designer
+alt = article
 Design
 Fab 23, 2022
 Best fonts every designer
 Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
 
-alt = Design digest #80
+alt = article
 Design
 Fab 23, 2022
 Design digest #80
 Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
 
-alt = UI interactions of the week
+alt = article
 Design
 Fab 23, 2022
 UI interactions of the week
 Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
 
-alt = The forgotten art of spacing
+alt = article
 Design
 Fab 23, 2022
 The Forgotten Art Of Spacing
 Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-alt = Design digest #79
+alt = article
 Design
 Fab 23, 2022
 Design Digest #79
